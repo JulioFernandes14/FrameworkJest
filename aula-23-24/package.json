@@ -1,0 +1,12 @@
+{
+  "name": "aula-23-24",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "JEST"
+  },
+  "keywords": [],
+  "author": "Júlio Fernandes",
+  "license": "ISC",
+  "description": "Projeto teste usando JEST"
+}
