@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Júlio Fernandes",
   "license": "ISC",
-  "description": "Projeto teste usando JEST"
+  "description": "Projeto teste usando JEST",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
